@@ -1,2 +1,3 @@
 # ptero-install
-bash <(curl -s https://raw.githubusercontent.com/NeyTwix/ptero-install/main/install.sh)
+
+Download the install.sh and run it or just copy paste it into your terminal.
